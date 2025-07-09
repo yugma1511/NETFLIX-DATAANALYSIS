@@ -1,2 +1,13 @@
 # NETFLIX-DATAANALYSIS
-"Visualizing Netflix Trends: An Interactive Dashboard with DAX-Powered Insights"  "Netflix Performance Overview – Powered by DAX, Maps &amp; Donut Visuals in Power BI"  "Geographic and Categorical Insights into Netflix Content – A Power BI Dashboard"
+Netflix Content Analysis Dashboard built using:
+✔️ DAX functions
+✔️ Map,Area Chart
+✔️ Donut Chart
+✔️ Column Chart
+
+📊 This dashboard explores:
+🎬 Over **9,000 Netflix titles**
+🌍 Global content distribution
+📅 Release trends over time
+🎭 TV Shows vs Movies
+🔞 Ratings breakdown
